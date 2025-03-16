@@ -10,7 +10,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        // add custom colors (outside of tailwind)
+        darkGreen: "#002B2B",
+        green: "#005555",
+        gray: "#444444",
+        black: "#000000",
+        whitishGray: "#F0F5F5",
+        white: "#FFFFFF",
       },
       spacing: {
         // add custom spacings (outside of tailwind)
